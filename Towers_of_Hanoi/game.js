@@ -10,7 +10,6 @@ class Game {
     this.reader = reader;
 
     this.stacks = [[1, 2, 3],[],[]];
-
     // this.run(completionCallback);
   }
 
